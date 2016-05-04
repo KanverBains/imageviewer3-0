@@ -8,7 +8,7 @@ import java.awt.Color;
  * @version 1.0
  */
 public class FishEyeFilter extends Filter
-{
+{         
     // constants:
     private final static int SCALE = 20;   // this defines the strenght of the filter
     private final static double TWO_PI = 2 * Math.PI;
